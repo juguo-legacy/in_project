@@ -1,5 +1,7 @@
 In order to use the program use either one of the following syntaxes:
 
+For the first one "chmod +x replaceinput.py" needs to be run first
+
 ./replaceinput.py [number]
 EX: ./replaceinput.py 1
 
